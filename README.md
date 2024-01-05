@@ -1,2 +1,2 @@
-# kimai
-Kimai plugins and invoice templates
+# kimai2
+Kimai2 plugins and invoice templates
